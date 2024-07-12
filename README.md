@@ -23,3 +23,4 @@ This is a simple shopping app built with React Native and Expo. The app allows u
     Displays product information and an "Add to Cart" button.
 
 Clone the repository:
+https://github.com/Makinyidarling/rn-assignment7-11233143.git
